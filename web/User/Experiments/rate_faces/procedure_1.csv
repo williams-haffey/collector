@@ -1,0 +1,4 @@
+Item,Trial Type,Max Time,Text,Shuffle 1,
+0,instruct,user,"In this task we are asking you to identify what ethnicity you associated with a series of faces, and convey how confident you are.",off,
+2 to 109,rate_face,user,,trials,
+,,,,,
